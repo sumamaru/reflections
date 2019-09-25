@@ -14,6 +14,8 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+    When you want to have several versions of the same game. Or you want to adapt anothers' project to a purpose.
+    This allows us to keep different work streams seperate and safe.
 
 How do the diagrams help you visualize the branch structure?
 
