@@ -12,19 +12,34 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    A fork is a copy of someone's github repository that we make on my github
+    A clone is a copy of a github repository on my local computer
+    A branch is when I start a new workstream that is seperate from the master
+
+    A fork is used to allow us to create a copy of a github repository without having to
+    clone on my local machine while also giving credit to the original author.
+    A clone allows you to make a copy of a repository (or its fork) on your local machine
+    so you can make complex changes to it (simple ones can me made directly on github)
+    A branch lets you create new features or versions without worrying about messing the original code
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    When changes are made on github and changes are also made locally, it helps link those seperate changes
+    at the point when the branches were created
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You can use github to collaborate in many different ways. It's easier than most other ways for complex projects
+    with lots of collaboraters. If there are only a few collaboraters then it might be simpler and easier and faster
+    using other approaches
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You want to make changes in branches for a few reasons. 1. You aren't sure about the changes and don't want to mess the original.
+    2. When you want to others to review your code before merging into master.
+
+    Making changes in branch before merging in master is safer and making changes directly on master is shorter and easier, at least
+    in the short run.
